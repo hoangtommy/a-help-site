@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Investor Accreditations
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's get your accreditation status **verified**!
 
-## Getting Started
 
-Get started by **creating a new site**.
+### Why you need to get verified
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+You're likely investing in a private security (or offering) and your issuer (or sponsor) told you this was a requirement. They're right. All investors purchasing shares in private offering under Regulation D, Rule 506(c) need to prove that they have the financial means and the sophistication to make the investment under the guidelines of the United States Securities and Exchange Commission.
+
+Your sponsor is taking the required steps in verifying your financial standing which is a good signal. 
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Decide whether you'll be investing as an individual or through an entity
+- Determine which accreditation standard you qualify for
+- Gather relevant financial documents as proof
+- Submit your evidence for review to your issuer or their 3rd-party verifier
+- Receive confirmation and move forward with your investment 
